@@ -1,4 +1,11 @@
-fun main()
-{
-    // Block of code..
-}
+/* 
+	SYNTAX :~
+    			fun main()
+                        {
+                        }
+
+                        --> "fun" is a key / reserved words used to define a function.
+                        --> "main" is the function name followed by fun which is used to state that it is a main function.
+                        --> ( ) is called as "Paranthesis" used to pass the arguments.
+                        --> { } is called as "Curly braces" used to indicate the start and end of the code. 
+*/
